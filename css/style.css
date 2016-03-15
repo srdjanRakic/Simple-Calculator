@@ -1,0 +1,19 @@
+.text-center{
+    text-align: center;
+}
+
+.text-align-right{
+    text-align: right;
+}
+
+.vertically-centered-container{
+    min-height: 86%;  /* Fallback for browsers do NOT support vh unit */
+    min-height: 86vh; /* These two lines are counted as one :-)       */
+
+    display: flex;
+    align-items: center;
+}
+
+.button-spacing{
+    margin-bottom: 10px;
+}
