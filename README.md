@@ -1,2 +1,2 @@
 # Simple-Calculator
-A simple calculator in JavaScript.
+SEDC Student Project - Simple calculator in JavaScript.
